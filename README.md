@@ -1,6 +1,6 @@
 <h1>Minitalk</h1>
 
-![Screenshot](ss/ss.png)
+
 ### Mandatory
 
 - Produce `server` & `client` executables
@@ -26,3 +26,5 @@
 - [`sleep`](https://man7.org/linux/man-pages/man3/sleep.3.html)
 - [`usleep`](https://man7.org/linux/man-pages/man3/usleep.3.html)
 - [`exit`](https://man7.org/linux/man-pages/man3/exit.3.html)
+
+![Screenshot](ss/ss.png)
