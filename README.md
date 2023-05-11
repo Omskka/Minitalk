@@ -1,1 +1,1 @@
-![Screenshot](SS/printf.png)
+![Screenshot](SS/SS.png)
